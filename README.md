@@ -11,7 +11,7 @@ Shiny web application for twitter sentiment analysis has been created. The aim o
 
                                             Figure 1. Sentiment Analysis on Twitter User Interface
 
-The user of this application can input any number of tweets and any hashtag that they want, (for example : on the user interface 200 has been used as the number of tweets and children as the hashtag), then the next step is click Get Data. After the user has finished click the Get Data button (the data that will be generated is the last 200 tweets by Twitter's users) then each window will show its results. On the web user interface that has been shown on fig.1 there are 3 windows such are 
+The user of this application can input any number of tweets and any hashtag that they want, (for example : on the user interface 200 has been used as the number of tweets and children as the hashtag), then the next step is click Get Data. After the user has finished click the Get Data button (the data that will be generated is the last 200 tweets by Twitter's users) then each window will show its results. On the web user interface that has been shown on fig.1 there are 3 windows such as : 
 1. Data   
 The Data Window will have shown a table (figure 2) that consists of each sentiment based on the  emotional intent of the word in each tweet (line number). The data that has been shown in this window is the data that has been extracted from Twitter API then has been through some process including tokenization, removing stop words, lexicons (get_sentiments(“bing”)),etc.
 
