@@ -35,4 +35,4 @@ On the other hand it is also important to know the data and vizualisation of the
 
                                             Figure 4. Negative Sentiment Visualization                      
 
-I hope this application will be useful for those people who are interest onSentiment Analysis on Twitter :) 
+I hope this application will be useful for those people who are interest on Sentiment Analysis on Twitter :) 
